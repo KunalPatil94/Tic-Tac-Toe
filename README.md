@@ -1,2 +1,3 @@
-# tic-tiac-toe
-this is my first git repositery.
+# Tic-Tac-Toe-Game
+Web developement
+This is My secound Repo.
